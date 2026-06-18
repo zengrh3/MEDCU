@@ -1,0 +1,139 @@
+panel,dataset,setting,split,category_type,category,n_qa_pairs
+(a),Med-Unlearn,Independent,forget,disease,Alzheimer's disease,80
+(a),Med-Unlearn,Independent,forget,disease,Bipolar disorder,80
+(a),Med-Unlearn,Independent,forget,disease,Diabetic peripheral neuropathy,80
+(a),Med-Unlearn,Independent,forget,disease,Generalized anxiety disorder,80
+(a),Med-Unlearn,Independent,forget,disease,Primary open-angle glaucoma,80
+(a),Med-Unlearn,Independent,forget,disease,Knee osteoarthritis,80
+(a),Med-Unlearn,Independent,forget,disease,Chronic low back pain,80
+(a),Med-Unlearn,Independent,forget,disease,Hyperlipidemia,80
+(a),Med-Unlearn,Independent,forget,disease,Nonalcoholic fatty liver disease,80
+(a),Med-Unlearn,Independent,forget,disease,Obesity,80
+(a),Med-Unlearn,Independent,forget,disease,Obstructive sleep apnea,80
+(a),Med-Unlearn,Independent,forget,disease,Peripheral arterial disease,80
+(a),Med-Unlearn,Independent,forget,disease,Polycystic ovary syndrome,80
+(a),Med-Unlearn,Independent,forget,disease,Parkinson's disease,80
+(a),Med-Unlearn,Independent,forget,disease,Schizophrenia,80
+(a),Med-Unlearn,Independent,forget,disease,Venous thromboembolism,80
+(a),Med-Unlearn,Independent,forget,disease,Stable coronary artery disease,60
+(a),Med-Unlearn,Independent,forget,disease,Chronic kidney disease,60
+(a),Med-Unlearn,Independent,forget,disease,Gout,60
+(a),Med-Unlearn,Independent,forget,disease,Essential hypertension,60
+(a),Med-Unlearn,Independent,forget,disease,Major depressive disorder,60
+(a),Med-Unlearn,Independent,forget,disease,Ischemic stroke,60
+(a),Med-Unlearn,Independent,forget,disease,Type 2 diabetes,60
+(a),Med-Unlearn,Independent,forget,disease,Peptic ulcer disease,60
+(a),Med-Unlearn,Independent,forget,disease,Atrial fibrillation,40
+(a),Med-Unlearn,Independent,forget,disease,Epilepsy,40
+(a),Med-Unlearn,Independent,forget,disease,Gastroesophageal reflux disease,40
+(a),Med-Unlearn,Independent,forget,disease,Chronic heart failure,40
+(a),Med-Unlearn,Independent,forget,disease,Hypothyroidism,40
+(a),Med-Unlearn,Independent,forget,disease,Migraine,40
+(a),Med-Unlearn,Independent,retain,disease,Atopic dermatitis,80
+(a),Med-Unlearn,Independent,retain,disease,Chronic rhinosinusitis,80
+(a),Med-Unlearn,Independent,retain,disease,Gallstone disease,80
+(a),Med-Unlearn,Independent,retain,disease,Inflammatory bowel disease,80
+(a),Med-Unlearn,Independent,retain,disease,Multiple sclerosis,80
+(a),Med-Unlearn,Independent,retain,disease,Iron deficiency anemia,80
+(a),Med-Unlearn,Independent,retain,disease,Menopausal symptoms,80
+(a),Med-Unlearn,Independent,retain,disease,Benign prostatic hyperplasia,80
+(a),Med-Unlearn,Independent,retain,disease,Chronic constipation,80
+(a),Med-Unlearn,Independent,retain,disease,Chronic spontaneous urticaria,80
+(a),Med-Unlearn,Independent,retain,disease,Latent tuberculosis infection,80
+(a),Med-Unlearn,Independent,retain,disease,Vitamin B12 deficiency,80
+(a),Med-Unlearn,Independent,retain,disease,Acne vulgaris,80
+(a),Med-Unlearn,Independent,retain,disease,Nephrolithiasis,80
+(a),Med-Unlearn,Independent,retain,disease,Irritable bowel syndrome,80
+(a),Med-Unlearn,Independent,retain,disease,Age-related cataract,80
+(a),Med-Unlearn,Independent,retain,disease,Psoriasis,80
+(a),Med-Unlearn,Independent,retain,disease,Endometriosis,80
+(a),Med-Unlearn,Independent,retain,disease,Thyroid nodule,80
+(a),Med-Unlearn,Independent,retain,disease,Otitis media,80
+(a),Med-Unlearn,Independent,retain,disease,Allergic rhinitis,60
+(a),Med-Unlearn,Independent,retain,disease,Chronic obstructive pulmonary disease,60
+(a),Med-Unlearn,Independent,retain,disease,Chronic hepatitis B,60
+(a),Med-Unlearn,Independent,retain,disease,Asthma,60
+(a),Med-Unlearn,Independent,retain,disease,Rheumatoid arthritis,40
+(a),Med-Unlearn,Independent,retain,disease,Community-acquired pneumonia,40
+(a),Med-Unlearn,Independent,retain,disease,Osteoporosis,40
+(a),Med-Unlearn,Independent,retain,disease,Urinary tract infection,40
+(b),Med-Unlearn,Coupled,forget,disease,Alzheimer's disease,80
+(b),Med-Unlearn,Coupled,forget,disease,Bipolar disorder,80
+(b),Med-Unlearn,Coupled,forget,disease,Diabetic peripheral neuropathy,80
+(b),Med-Unlearn,Coupled,forget,disease,Generalized anxiety disorder,80
+(b),Med-Unlearn,Coupled,forget,disease,Primary open-angle glaucoma,80
+(b),Med-Unlearn,Coupled,forget,disease,Knee osteoarthritis,80
+(b),Med-Unlearn,Coupled,forget,disease,Chronic low back pain,80
+(b),Med-Unlearn,Coupled,forget,disease,Hyperlipidemia,80
+(b),Med-Unlearn,Coupled,forget,disease,Nonalcoholic fatty liver disease,80
+(b),Med-Unlearn,Coupled,forget,disease,Obesity,80
+(b),Med-Unlearn,Coupled,forget,disease,Obstructive sleep apnea,80
+(b),Med-Unlearn,Coupled,forget,disease,Peripheral arterial disease,80
+(b),Med-Unlearn,Coupled,forget,disease,Polycystic ovary syndrome,80
+(b),Med-Unlearn,Coupled,forget,disease,Parkinson's disease,80
+(b),Med-Unlearn,Coupled,forget,disease,Schizophrenia,80
+(b),Med-Unlearn,Coupled,forget,disease,Venous thromboembolism,80
+(b),Med-Unlearn,Coupled,forget,disease,Stable coronary artery disease,60
+(b),Med-Unlearn,Coupled,forget,disease,Chronic kidney disease,60
+(b),Med-Unlearn,Coupled,forget,disease,Gout,60
+(b),Med-Unlearn,Coupled,forget,disease,Essential hypertension,60
+(b),Med-Unlearn,Coupled,forget,disease,Major depressive disorder,60
+(b),Med-Unlearn,Coupled,forget,disease,Ischemic stroke,60
+(b),Med-Unlearn,Coupled,forget,disease,Type 2 diabetes,60
+(b),Med-Unlearn,Coupled,forget,disease,Peptic ulcer disease,60
+(b),Med-Unlearn,Coupled,forget,disease,Atrial fibrillation,40
+(b),Med-Unlearn,Coupled,forget,disease,Epilepsy,40
+(b),Med-Unlearn,Coupled,forget,disease,Gastroesophageal reflux disease,40
+(b),Med-Unlearn,Coupled,forget,disease,Chronic heart failure,40
+(b),Med-Unlearn,Coupled,forget,disease,Hypothyroidism,40
+(b),Med-Unlearn,Coupled,forget,disease,Migraine,40
+(b),Med-Unlearn,Coupled,retain,disease,Alzheimer's disease,80
+(b),Med-Unlearn,Coupled,retain,disease,Bipolar disorder,80
+(b),Med-Unlearn,Coupled,retain,disease,Diabetic peripheral neuropathy,80
+(b),Med-Unlearn,Coupled,retain,disease,Generalized anxiety disorder,80
+(b),Med-Unlearn,Coupled,retain,disease,Primary open-angle glaucoma,80
+(b),Med-Unlearn,Coupled,retain,disease,Knee osteoarthritis,80
+(b),Med-Unlearn,Coupled,retain,disease,Chronic low back pain,80
+(b),Med-Unlearn,Coupled,retain,disease,Hyperlipidemia,80
+(b),Med-Unlearn,Coupled,retain,disease,Nonalcoholic fatty liver disease,80
+(b),Med-Unlearn,Coupled,retain,disease,Obesity,80
+(b),Med-Unlearn,Coupled,retain,disease,Obstructive sleep apnea,80
+(b),Med-Unlearn,Coupled,retain,disease,Peripheral arterial disease,80
+(b),Med-Unlearn,Coupled,retain,disease,Polycystic ovary syndrome,80
+(b),Med-Unlearn,Coupled,retain,disease,Parkinson's disease,80
+(b),Med-Unlearn,Coupled,retain,disease,Schizophrenia,80
+(b),Med-Unlearn,Coupled,retain,disease,Venous thromboembolism,80
+(b),Med-Unlearn,Coupled,retain,disease,Stable coronary artery disease,60
+(b),Med-Unlearn,Coupled,retain,disease,Chronic kidney disease,60
+(b),Med-Unlearn,Coupled,retain,disease,Gout,60
+(b),Med-Unlearn,Coupled,retain,disease,Essential hypertension,60
+(b),Med-Unlearn,Coupled,retain,disease,Major depressive disorder,60
+(b),Med-Unlearn,Coupled,retain,disease,Ischemic stroke,60
+(b),Med-Unlearn,Coupled,retain,disease,Type 2 diabetes,60
+(b),Med-Unlearn,Coupled,retain,disease,Peptic ulcer disease,60
+(b),Med-Unlearn,Coupled,retain,disease,Atrial fibrillation,40
+(b),Med-Unlearn,Coupled,retain,disease,Epilepsy,40
+(b),Med-Unlearn,Coupled,retain,disease,Gastroesophageal reflux disease,40
+(b),Med-Unlearn,Coupled,retain,disease,Chronic heart failure,40
+(b),Med-Unlearn,Coupled,retain,disease,Hypothyroidism,40
+(b),Med-Unlearn,Coupled,retain,disease,Migraine,40
+(c),MIMIC-Unlearn,Independent,forget,finding,Fracture,420
+(c),MIMIC-Unlearn,Independent,forget,finding,Consolidation,410
+(c),MIMIC-Unlearn,Independent,forget,finding,Lung Lesion,410
+(c),MIMIC-Unlearn,Independent,forget,finding,Lung Opacity,410
+(c),MIMIC-Unlearn,Independent,forget,finding,Pneumonia,350
+(c),MIMIC-Unlearn,Independent,retain,finding,Enlarged Cardiomediastinum,400
+(c),MIMIC-Unlearn,Independent,retain,finding,Pneumothorax,400
+(c),MIMIC-Unlearn,Independent,retain,finding,Pleural Effusion,400
+(c),MIMIC-Unlearn,Independent,retain,finding,Pleural Other,400
+(c),MIMIC-Unlearn,Independent,retain,finding,Cardiomegaly,400
+(d),MIMIC-Unlearn,Coupled,forget,finding,Fracture,420
+(d),MIMIC-Unlearn,Coupled,forget,finding,Consolidation,410
+(d),MIMIC-Unlearn,Coupled,forget,finding,Lung Lesion,410
+(d),MIMIC-Unlearn,Coupled,forget,finding,Lung Opacity,410
+(d),MIMIC-Unlearn,Coupled,forget,finding,Pneumonia,350
+(d),MIMIC-Unlearn,Coupled,retain,finding,Fracture,420
+(d),MIMIC-Unlearn,Coupled,retain,finding,Consolidation,410
+(d),MIMIC-Unlearn,Coupled,retain,finding,Lung Lesion,410
+(d),MIMIC-Unlearn,Coupled,retain,finding,Lung Opacity,410
+(d),MIMIC-Unlearn,Coupled,retain,finding,Pneumonia,350

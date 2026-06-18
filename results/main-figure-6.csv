@@ -1,0 +1,49 @@
+dataset,model,group,metric,value
+Med-Unlearn,LLaMA-3.2-1B,Avg. baselines,Forget,12.2738±4.4668
+Med-Unlearn,LLaMA-3.2-1B,Avg. baselines,Retain,12.73±4.3751
+Med-Unlearn,LLaMA-3.2-1B,Avg. baselines,FRGap,0.4562±0.2969
+Med-Unlearn,LLaMA-3.2-1B,MEDCU,Forget,0.3792±0.0099
+Med-Unlearn,LLaMA-3.2-1B,MEDCU,Retain,28.7461±0.0534
+Med-Unlearn,LLaMA-3.2-1B,MEDCU,FRGap,28.3668±0.0512
+Med-Unlearn,LLaMA-3.1-8B,Avg. baselines,Forget,10.7442±4.3079
+Med-Unlearn,LLaMA-3.1-8B,Avg. baselines,Retain,19.1797±4.7584
+Med-Unlearn,LLaMA-3.1-8B,Avg. baselines,FRGap,8.4355±3.9605
+Med-Unlearn,LLaMA-3.1-8B,MEDCU,Forget,8.2956±0.1205
+Med-Unlearn,LLaMA-3.1-8B,MEDCU,Retain,30.4821±0.0161
+Med-Unlearn,LLaMA-3.1-8B,MEDCU,FRGap,22.1864±0.1065
+Med-Unlearn,Qwen2.5-3B,Avg. baselines,Forget,12.6734±4.295
+Med-Unlearn,Qwen2.5-3B,Avg. baselines,Retain,13.3104±4.0132
+Med-Unlearn,Qwen2.5-3B,Avg. baselines,FRGap,0.637±0.5963
+Med-Unlearn,Qwen2.5-3B,MEDCU,Forget,0.7644±0.0061
+Med-Unlearn,Qwen2.5-3B,MEDCU,Retain,27.508±0.0804
+Med-Unlearn,Qwen2.5-3B,MEDCU,FRGap,26.7436±0.0747
+Med-Unlearn,Qwen2.5-7B,Avg. baselines,Forget,14.2982±4.629
+Med-Unlearn,Qwen2.5-7B,Avg. baselines,Retain,17.4435±3.7057
+Med-Unlearn,Qwen2.5-7B,Avg. baselines,FRGap,3.1453±2.5706
+Med-Unlearn,Qwen2.5-7B,MEDCU,Forget,1.5833±0.0539
+Med-Unlearn,Qwen2.5-7B,MEDCU,Retain,27.7475±0.0946
+Med-Unlearn,Qwen2.5-7B,MEDCU,FRGap,26.1642±0.1309
+MIMIC-Unlearn,LLaMA-3.2-1B,Avg. baselines,Forget,20.9428±5.8252
+MIMIC-Unlearn,LLaMA-3.2-1B,Avg. baselines,Retain,21.4392±5.8004
+MIMIC-Unlearn,LLaMA-3.2-1B,Avg. baselines,FRGap,0.4963±0.2263
+MIMIC-Unlearn,LLaMA-3.2-1B,MEDCU,Forget,0.3797±0
+MIMIC-Unlearn,LLaMA-3.2-1B,MEDCU,Retain,51.3282±0.227
+MIMIC-Unlearn,LLaMA-3.2-1B,MEDCU,FRGap,50.9485±0.227
+MIMIC-Unlearn,LLaMA-3.1-8B,Avg. baselines,Forget,14.9451±6.5079
+MIMIC-Unlearn,LLaMA-3.1-8B,Avg. baselines,Retain,26.7251±7.6803
+MIMIC-Unlearn,LLaMA-3.1-8B,Avg. baselines,FRGap,11.78±6.8001
+MIMIC-Unlearn,LLaMA-3.1-8B,MEDCU,Forget,0.4914±0.0055
+MIMIC-Unlearn,LLaMA-3.1-8B,MEDCU,Retain,41.9285±0.1099
+MIMIC-Unlearn,LLaMA-3.1-8B,MEDCU,FRGap,41.4372±0.1044
+MIMIC-Unlearn,Qwen2.5-3B,Avg. baselines,Forget,23.2713±6.1242
+MIMIC-Unlearn,Qwen2.5-3B,Avg. baselines,Retain,23.4943±6.0816
+MIMIC-Unlearn,Qwen2.5-3B,Avg. baselines,FRGap,0.223±0.2111
+MIMIC-Unlearn,Qwen2.5-3B,MEDCU,Forget,1.1656±0.0414
+MIMIC-Unlearn,Qwen2.5-3B,MEDCU,Retain,38.8405±0.2149
+MIMIC-Unlearn,Qwen2.5-3B,MEDCU,FRGap,37.675±0.1865
+MIMIC-Unlearn,Qwen2.5-7B,Avg. baselines,Forget,23.8669±6.7275
+MIMIC-Unlearn,Qwen2.5-7B,Avg. baselines,Retain,26.771±5.4572
+MIMIC-Unlearn,Qwen2.5-7B,Avg. baselines,FRGap,2.9041±2.4578
+MIMIC-Unlearn,Qwen2.5-7B,MEDCU,Forget,0.551±0.0077
+MIMIC-Unlearn,Qwen2.5-7B,MEDCU,Retain,37.6226±0.2676
+MIMIC-Unlearn,Qwen2.5-7B,MEDCU,FRGap,37.0716±0.2637

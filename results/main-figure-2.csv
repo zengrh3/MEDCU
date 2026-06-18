@@ -1,0 +1,20 @@
+panel,dataset,setting,split,class_group,percentage
+(a),Med-Unlearn,Independent,forget,Cardiometabolic,39.0
+(a),Med-Unlearn,Independent,forget,Neuropsychiatric,34.0
+(a),Med-Unlearn,Independent,forget,Musculoskeletal & digestive,27.0
+(a),Med-Unlearn,Independent,retain,Dermatologic,16.0
+(a),Med-Unlearn,Independent,retain,Gastrointestinal & hepatic,19.0
+(a),Med-Unlearn,Independent,retain,"Respiratory, ENT & infectious",23.0
+(a),Med-Unlearn,Independent,retain,Genitourinary & gynaecologic,18.0
+(a),Med-Unlearn,Independent,retain,Other systemic,24.0
+(a),Med-Unlearn,Coupled,forget,Cardiometabolic,39.0
+(a),Med-Unlearn,Coupled,forget,Neuropsychiatric,34.0
+(a),Med-Unlearn,Coupled,forget,Musculoskeletal & digestive,27.0
+(b),MIMIC-Unlearn,Independent,forget,Airspace,58.5
+(b),MIMIC-Unlearn,Independent,forget,Osseous (trauma),21.0
+(b),MIMIC-Unlearn,Independent,forget,Parenchymal / structural,20.5
+(b),MIMIC-Unlearn,Independent,retain,Cardiomediastinal,40.0
+(b),MIMIC-Unlearn,Independent,retain,Pleural,60.0
+(b),MIMIC-Unlearn,Coupled,forget,Airspace,58.5
+(b),MIMIC-Unlearn,Coupled,forget,Osseous (trauma),21.0
+(b),MIMIC-Unlearn,Coupled,forget,Parenchymal / structural,20.5
