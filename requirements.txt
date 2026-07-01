@@ -1,0 +1,9 @@
+# Core (tested with the versions in parentheses)
+torch>=2.1            # (tested: 2.x, ROCm 6.3 / CUDA 12)
+transformers>=4.46    # (tested: 5.8.0) — needs processing_class + apply_chat_template(tokenize=True)
+accelerate>=0.30      # required by transformers.Trainer
+numpy>=1.24
+
+# Optional — only for the LLM-as-judge correctness metric (F-LLM / R-LLM).
+# ROUGE-L metrics (F-Rouge / R-Rouge / FRGap) need none of this.
+openai>=1.0           # set OPENAI_API_KEY (+ OPENAI_BASE_URL for OpenAI-compatible endpoints)

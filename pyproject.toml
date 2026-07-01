@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "medcu"
+version = "1.0.0"
+description = "Contextual medical unlearning via retain-subspace residual weighting (MEDCU)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = [
+    "torch>=2.1",
+    "transformers>=4.46",
+    "accelerate>=0.30",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+judge = ["openai>=1.0"]   # only for the LLM-as-judge correctness metric
+
+[project.scripts]
+medcu = "medcu.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["medcu*"]

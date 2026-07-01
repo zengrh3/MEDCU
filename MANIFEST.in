@@ -1,0 +1,4 @@
+include LICENSE README.md requirements.txt
+recursive-include configs *.yaml
+recursive-include assets *.txt
+recursive-include results *.csv

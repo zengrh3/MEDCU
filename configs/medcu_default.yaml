@@ -1,0 +1,18 @@
+method:
+  gamma: 1.0
+  alpha: 1.0
+  rank_k: 64
+  quantile_low: 0.1
+  quantile_high: 0.9
+  weight_floor: 0.1
+  hidden_layer: -2
+  max_retain_tokens: 4096
+optim:
+  epochs: 3
+  lr: 1.0e-5
+  batch_size: 8
+  grad_accum: 4
+  optim: adamw_torch
+  grad_clip: 5.0
+  lr_scheduler: constant
+  max_length: 512
